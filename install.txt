@@ -1,0 +1,30 @@
+# Python Installation Guide
+
+## For Windows:
+
+1. Visit the official Python website: https://www.python.org/
+
+2. Go to the "Downloads" section and choose the latest Python version for Windows.
+
+3. Download the Python installer file.
+
+4. Run the downloaded installer. Make sure to check the box "Add Python 3.x to PATH" at the beginning of the installation.
+
+5. Follow the on-screen instructions and click "Install Now".
+
+6. After installation, open Command Prompt and type `python --version` to confirm Python is installed correctly.
+
+## For macOS:
+
+1. Visit the official Python website: https://www.python.org/
+
+2. Go to the "Downloads" section and select the latest Python version for macOS.
+
+3. Download the Python installer file.
+
+4. Open the downloaded .pkg file to run the installer.
+
+5. Follow the installer's instructions to complete the installation.
+
+6. After installation, open Terminal and type `python3 --version` to check that Python has been installed properly.
+
