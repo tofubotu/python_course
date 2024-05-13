@@ -1,1 +1,5 @@
 - Kirjuta ilus vahva pythoni installi juhis 
+- juhis kuidas installeerida oma arvutisse venv
+- juhis kuidas sinna venvi installeerida Jupyter Notebook (mis on sama nagu see colab)
+
+- loo moodul ikkagi Classide 6ppimiseks, see on v2ga oluline konkseptsioon (kas l6pu t88 v6iks ka oma loodud klassi sisaldada 2kki? :))
