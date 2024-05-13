@@ -1,0 +1,22 @@
+# Loome kausta kus kohas virutaal environmente ehitada
+mkdir C:\venvs
+
+# Loome virtuaalse environmendi
+python -m venv C:\venvs\demo
+
+# Aktiveerime
+c:\venvs\demo\Scripts\activate
+
+# Uuendame pip paketihaldurit
+python.exe -m pip install --upgrade pip
+
+# loome koha koolituse jaoks
+mkdir c:\python_koolitus
+cd c:\python_koolitus
+
+# Kui edaspidi kui on vaja k2ivitada jupyteri notebooki siis k2ivitame command line'i ja
+c:\venvs\demo\Scripts\activate
+cd c:\python_koolitus
+
+# Et installeerida pakke 
+pip install tk ipython

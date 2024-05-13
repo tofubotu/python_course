@@ -9,7 +9,7 @@ from io import BytesIO
 
 # Create the main window
 root = tk.Tk()
-root.title("Cat Image Loader")
+root.title("Random Cat")
 root.geometry("420x350")
 
 # Initially, photo_label is None, it will be set after the image is loaded for the first time
@@ -38,7 +38,7 @@ def load_image():
         photo_label.image = tk_img  # Keep a reference!
 
 # Create a button to load the image
-load_button = tk.Button(root, text="Load Cat Image", command=load_image)
+load_button = tk.Button(root, text="Load Random Cat Image", command=load_image)
 load_button.pack(pady=20)
 
 # Start the GUI event loop
