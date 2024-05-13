@@ -1,5 +1,9 @@
 - Kirjuta ilus vahva pythoni installi juhis 
 - juhis kuidas installeerida oma arvutisse venv
 - juhis kuidas sinna venvi installeerida Jupyter Notebook (mis on sama nagu see colab)
-
+- teeme yhe mooduli sellise kus me 6ppime gitti kasutama oma arvutis
 - loo moodul ikkagi Classide 6ppimiseks, see on v2ga oluline konkseptsioon (kas l6pu t88 v6iks ka oma loodud klassi sisaldada 2kki? :))
+
+- saada k6igile t2nased slaidid peale kooltiust
+
+- kuidas eraldi faili k2ivitada replit.com lehel
