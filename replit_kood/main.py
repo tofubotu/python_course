@@ -16,6 +16,14 @@ __import__(students[i])
 print("programmi l6pp")
 print("-"*25)
 
+# Mini labor #1:
+# teeme v2ikese mooduli mis m66dab aega inimlikult
+# 1. import time
+# 2. time.sleep() meetod
+# 3. lets measure!!! 
+
+# Mini labor #2: hmmm 2kki Flask...
+
 # Tänased (15.05.2024) teemad:
 # 1. muutjad, massiivid, vaatame ligemalt
 # 2. funktsioonid
