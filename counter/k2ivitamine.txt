@@ -1,0 +1,11 @@
+windows:
+mine terminalis sinna kuuhu salvesasid faili
+ja k2ivita terminalis: counter.bat v6i
+lihtsalt counter
+
+apple:
+l2hed samasse kohta ja pead panema k2ivitmise k2su
+chmod +x counter.sh
+ja et k2ivitada
+
+./counter.sh
