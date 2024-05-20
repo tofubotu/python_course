@@ -1,11 +1,35 @@
-windows:
-mine terminalis sinna kuuhu salvesasid faili
-ja k2ivita terminalis: counter.bat v6i
-lihtsalt counter
+Loo koolituse kaust:
+Windows:
+mkdir C:\koolitus
+
+Apple terminalis (avatakse juba sinu kodu kaust vaikimisi):
+mkdir koolituse
+
+
+
+Selleks et minna koolituse kausta
+Windows:
+cd C:\koolitus
 
 apple:
-l2hed samasse kohta ja pead panema k2ivitmise k2su
+cd koolitus
+
+
+--- k2ivitamine -----
+
+windows:
+mine terminalis sinna kuuhu salvesasid faili
+ja k2ivita terminalis: counter.bat v6i lihtsalt counter
+
+
+
+
+apple:
+l2hed samasse kohta ja pead panema k2ivitmise 6igust lisava k2su chmod:
+
 chmod +x counter.sh
-ja et k2ivitada
+
+
+ja et k2ivitada sisestad ./ ette programmi faili nimele
 
 ./counter.sh
