@@ -33,3 +33,7 @@ chmod +x counter.sh
 ja et k2ivitada sisestad ./ ette programmi faili nimele
 
 ./counter.sh
+
+
+Ja k6igile yhtemoodi kui pythoni versioooni k2ivitada:
+pythyon counter.py
